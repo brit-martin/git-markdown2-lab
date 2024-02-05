@@ -6,3 +6,7 @@
 ``` javascript
 let myVar = "Hello, world!";
 ```
+
+- [ ] Get out of bed
+- [ ] Brush teeth
+- [ ] Get dressed
